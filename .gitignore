@@ -4,3 +4,6 @@ cmake_install.cmake
 Makefile
 code
 *.o
+code_prof
+gmon.out
+submission_ids.log
